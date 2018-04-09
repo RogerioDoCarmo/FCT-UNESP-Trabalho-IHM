@@ -1,3 +1,5 @@
 # Teste de gitignore
 ~$teiro-de-planejamento.docx
 ~$teiro-de-planejamento.docx
+*.jpeg
+*.jpg
